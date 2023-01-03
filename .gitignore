@@ -1,0 +1,5 @@
+/obj-x86_64-linux-gnu
+/debian/.debhelper
+/debian/cvm-ui-desktop-backgrounds
+/debian/debhelper-build-stamp
+/debian/cvm-ui-desktop-backgrounds.substvars

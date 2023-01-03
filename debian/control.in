@@ -1,0 +1,19 @@
+Source: cvm-ui-desktop-backgrounds
+Section: gnome
+Priority: optional
+Maintainer: jiafeitech
+Build-Depends: debhelper-compat (= 13),
+  dh-sequence-gnome,
+  libglib2.0-dev,
+  meson (>= 0.41.0)
+Standards-Version: 4.6.0
+Homepage: https://github.com/jiafeitech/cvm-ui-desktop-backgrounds
+Vcs-Browser: https://github.com/jiafeitech/cvm-ui-desktop-backgrounds
+Vcs-Git: https://github.com/jiafeitech/cvm-ui-desktop-backgrounds.git
+Rules-Requires-Root: no
+
+Package: cvm-ui-desktop-backgrounds
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Collection of light and dark backgrounds for Cvm UI Desktop.

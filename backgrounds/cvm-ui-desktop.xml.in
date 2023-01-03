@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>JIΛFEI mountain</name>
+    <filename>@BACKGROUNDDIR@/jia-mount.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#C6AEE5</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>JIΛFEI mountain (noon)</name>
+    <filename>@BACKGROUNDDIR@/jia-mount-noon.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#78DFFF</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neon</name>
+    <filename>@BACKGROUNDDIR@/neon.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/neon-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#685CE2</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

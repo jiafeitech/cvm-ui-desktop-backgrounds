@@ -10,7 +10,7 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>JIΛFEI mountain (noon)</name>
+    <name>JIΛFEI mountain (Noon)</name>
     <filename>@BACKGROUNDDIR@/jia-mount-noon.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -20,10 +20,17 @@
   <wallpaper deleted="false">
     <name>Neon</name>
     <filename>@BACKGROUNDDIR@/neon.png</filename>
-    <filename-dark>@BACKGROUNDDIR@/neon-dark.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#685CE2</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neon (Dark)</name>
+    <filename>@BACKGROUNDDIR@/neon-dark.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#99A41C</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
